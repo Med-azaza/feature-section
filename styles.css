@@ -1,0 +1,78 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    background-color: hsl(0, 0%, 98%);
+    color: hsl(229, 6%, 66%);
+}
+.header {
+    text-align: center;
+    padding-left: 30%;
+    padding-right: 30%;
+    line-height: 230%;
+    padding-top: 5%;
+}
+.t1 {
+    font-size: 2.5em;
+    font-weight: 200;
+}
+.t2 {
+    font-size: 2.5em;
+    font-weight: 600;
+}
+.container {
+    height: 500px;
+    margin-bottom: 20px;
+}
+.section {
+    height: 100%;
+    width: 27%;
+    float: left;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#sect1 {
+    margin-left: 8%;
+}
+.t1, .t2 {
+    color: hsl(234, 12%, 34%);
+}
+.card, .card2 {
+    background-color: #fff;
+    box-shadow: 0px 7px 10px;
+    height: 40%;
+    border-radius: 2%;
+    padding: 10%;
+    line-height: 200%;
+    position: relative;
+    
+}
+.card {
+    margin-top: 40%;
+    margin-bottom: 40%;
+}
+.card2 {
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+#c1 {
+    border-top: 5px solid cyan;
+}
+#c2 {
+    border-top: 5px solid red;
+}
+#c3 {
+    border-top: 5px solid orange;
+}
+#c4 {
+    border-top: 5px solid blue;
+}
+.title {
+    font-size: 1.5em;
+    font-weight: 400;
+    color: hsl(234, 12%, 34%)
+}
+img {
+    position: absolute;
+    top: 65%;
+    left: 70%;
+}
