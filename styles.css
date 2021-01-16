@@ -76,3 +76,6 @@ img {
     top: 65%;
     left: 70%;
 }
+.card:hover, .card2:hover {
+    box-shadow: 0px 7px 20px;
+}
